@@ -19,6 +19,9 @@ a{
 a:hover{
     color: #F58d17;
 }
+.nav-link{
+    color: black;
+}
 
 img{
     width: 100%;
@@ -29,15 +32,15 @@ img{
     padding: 14px 38px;
 }
 .btn-brand{
-    background-color: #219ebc;
+    background-color: #003049;
     color: #fff;
     font-weight: 500;
     border-radius: 12px;
-    border-color: #219ebc;
+    border-color: #003049;
 }
 
 .btn-brand:hover{
-    border-color: #023047;
-    background-color: #023047;
+    border-color: #457b9d;
+    background-color: #457b9d;
     color: #fff;
 }
